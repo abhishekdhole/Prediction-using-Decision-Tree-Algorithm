@@ -20,9 +20,13 @@ The purpose is if we feed any new data to this classifier, it would be able to p
 
 Please find the following files:
 
-    1. Required .ipynb file.
+    1.Required .ipynb file.
     
     2.Provided data.
     
     3.Decision Tree in .png file form.
-    
+#Links
+      Youtube:https://bit.ly/3o3NOPK
+      Linkdin:https://bit.ly/3H4EcwY
+      TSF:https://bit.ly/3COjfnB
+
